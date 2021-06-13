@@ -1,1 +1,1 @@
-# gomuluSistemlerProje
+GÖMÜLÜ SİSTEMLER DERSİ PROJE ÖDEVİ
